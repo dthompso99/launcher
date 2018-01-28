@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+cmake_build_linux_Release
+cmake_build_linux_debug
+cmake_build_win_Debug
+cmake_build_win_Release
+git
+output
